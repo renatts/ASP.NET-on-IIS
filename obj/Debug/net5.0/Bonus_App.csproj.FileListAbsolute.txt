@@ -38,3 +38,4 @@ C:\DevOps\Week_3\Bonus\Bonus_App\obj\Debug\net5.0\Bonus_App.dll
 C:\DevOps\Week_3\Bonus\Bonus_App\obj\Debug\net5.0\ref\Bonus_App.dll
 C:\DevOps\Week_3\Bonus\Bonus_App\obj\Debug\net5.0\Bonus_App.pdb
 C:\DevOps\Week_3\Bonus\Bonus_App\obj\Debug\net5.0\Bonus_App.genruntimeconfig.cache
+C:\DevOps\Week_3\Bonus\Bonus_App\obj\Debug\net5.0\Bonus_App.csproj.AssemblyReference.cache
