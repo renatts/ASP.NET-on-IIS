@@ -25,7 +25,7 @@
 3. Insert your `username` and `password`.
 4. Choose `Local Resources` and then press on `More...`.
 5. Click on `+` near the `Drives` option.
-6. Choose your drive (the drive that includes your `ASP.NET` project) and then press `OK`.
+6. Choose your drive (the drive that contains your `ASP.NET Core` project) and then press `OK`.
 7. Go back to `General` and press `Connect`.
 8. Add `IIS Manager` to your `Windows` server.
 9. Create new application pool by right-clicking `Application Pools`.
