@@ -14,10 +14,10 @@
 12. `Rebuild` your solution.
 13. Right-click on your project and choose `Publish`.
 14. In publish window choose `Folder`.
-15. In Location choose the folder location and then choose `Finish`.
+15. In `Location` choose the folder location and then choose `Finish`.
 16. In publish window press the `Publish` button.
-17. Some publishing files were created at `[Your project]/bin/Release/net5.0/publish`.
-18. Check your project is running.
+17. Some binary files were created at `[Your project]/bin/Release/net5.0/publish`.
+18. Check your project is running locally.
 
 ### Part II
 1. Search for `Remote Desktop Connection` on your computer.
