@@ -43,3 +43,4 @@
     (`https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-aspnetcore-5.0.10-windows-hosting-bundle-installer`).
 22. `Refresh` your website and press `Browse*:[your port](http)`.
 23. It finally works!
+![IIS_Assignment](https://user-images.githubusercontent.com/83014719/135459068-4f912cbd-e145-4b67-b1df-e0ceca708170.png)
